@@ -33,7 +33,7 @@ def parse_products(html):
 
 
 def to_csv(res):
-    with open("fossil_price_data.csv", "a" ) as f:  
+    with open("fossil_data.csv", "a" ) as f:  
         writer = csv.DictWriter(f, fieldnames=["title", "price",])
         writer.writerows(res)
     
