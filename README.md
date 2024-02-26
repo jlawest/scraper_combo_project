@@ -1,6 +1,6 @@
 # Fossil Men's Watches Scraper
 
-This Python script scrapes product data from the Fossil website's men's watches section and saves it to a CSV file. It utilizes HTTP requests and HTML parsing to extract information such as product titles and prices.
+This Python script scrapes product data from the Fossil website's men's watches section and saves it to a CSV file. It utilises HTTP requests and HTML parsing to extract information such as product titles and prices.
 
 ## Modules Required
 
